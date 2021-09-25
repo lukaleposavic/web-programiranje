@@ -1,0 +1,19 @@
+table{
+    font-size: large;
+    font-weight: bold;
+    margin-left: 20%;
+}
+td{
+    padding:5px;
+    border:solid rgb(212, 209, 209) 2px;
+
+}
+.big{
+    text-align: center;
+}
+caption{
+    background-color: rgb(212, 209, 209);
+}
+.num{
+    font-weight: initial;
+}
